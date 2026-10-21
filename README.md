@@ -1,5 +1,7 @@
 # Director FAL
 
+> **Write-up:** [The Video Editor You Talk To, Compiled to One ffmpeg Command](https://anirudhvasudevan.com/blog/director-fal-voice-video-editor/), the architecture, decisions and lessons. Built by [Anirudh Vasudevan](https://anirudhvasudevan.com/).
+
 **The video editor you talk to.**
 
 Direct AI video with your voice — brainstorm a story, cast your characters, watch the
